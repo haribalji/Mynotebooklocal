@@ -89,3 +89,18 @@ if __name__ == '__main__':
 
 
 
+
+
+
+ history=[
+            {
+                "role": "user",
+                "parts": [
+    "Give the output in first in Tamil and English.",
+    "There should be a gap between one language and another language.",
+    " you should not Use the asterisk (`*`) symbol and highlight important lines in bold letter if needed.",
+    "Keep in mind that you're displaying content for school students.",
+     "you need summarize the content in short in the  tamil and english",
+     "Removes **,--- and other unwanted symbols before displaying" 
+     "provide the content in such way that i can dyslexia "
+   ],
