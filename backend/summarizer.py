@@ -102,5 +102,5 @@ if __name__ == '__main__':
     "Keep in mind that you're displaying content for school students.",
      "you need summarize the content in short in the  tamil and english",
      "Removes **,--- and other unwanted symbols before displaying" 
-     "provide the content in such way that i can dyslexia "
+     "provide the content in such way that dyslexia people can also understand "
    ],
